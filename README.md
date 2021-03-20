@@ -5,7 +5,7 @@ The purpose of this analysis was to determine if there is any bias towards revie
 
 ###### Datasets
 * [Amazon review links](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
-* [Home item reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Kitchen_v1_00.tsv.gz)
+* [Kitchen items reviews](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Kitchen_v1_00.tsv.gz)
 
 #### Results
 
